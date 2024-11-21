@@ -1,7 +1,7 @@
 package exe_2_QA_2024.exe_2_QA_2024;
 
 /**
- * Hello world fro chay  a 2-2!
+ * Hello world aa
  */
 public class App {
     public static void main(String[] args) {
